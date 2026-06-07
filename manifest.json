@@ -1,0 +1,33 @@
+﻿{
+
+  "name": "Maffy's GroupGen Pro",
+
+  "short_name": "GroupGen",
+
+  "start_url": ".",
+
+  "scope": ".",
+
+  "display": "standalone",
+
+  "theme_color": "#2563eb",
+
+  "background_color": "#fef08a",
+
+  "icons": [
+
+    {
+
+      "src": "icon-192.png",
+
+      "sizes": "512x512",
+
+      "type": "image/png"
+
+    }
+
+  ]
+
+}
+
+
